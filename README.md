@@ -67,7 +67,7 @@ Processo de Análise (Passo a Passo):
 
 ### Evidências no LangSmith
 
-- [Dashboard público com resultados da avaliação](https://smith.langchain.com/public/e65b6442-4bb1-4c47-8cdf-284995c5551c/d/0d7585e2-781b-45e1-9b40-3ebc92c88c66/e)
+- [Dashboard público com resultados da avaliação](https://smith.langchain.com/public/e65b6442-4bb1-4c47-8cdf-284995c5551c/d?tab=2)
 
 
 ---
